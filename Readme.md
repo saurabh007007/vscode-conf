@@ -1,3 +1,4 @@
+```
 {
 "github.copilot.nextEditSuggestions.enabled": true,
 "code-runner.runInTerminal": true,
@@ -30,3 +31,4 @@
 "window.zoomLevel": 0.7,
 "terminal.integrated.fontSize": 12
 }
+```
